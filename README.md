@@ -1,4 +1,3 @@
-# YouTube-Clone-App-By-Prashant Malviya
+# YouTube-Clone-App-By-Kapil Barsker
 ## Here is the deployed project link:-
 
-https://youtube-app-by-prashant-malviya.netlify.app/
